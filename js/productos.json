@@ -1,0 +1,10 @@
+[
+    {"id": 1, "name": "Almendras Non Pareil", "price": 1700, "img": "imagenes/almendras-non-pareil.webp", "category": "Frutas Secas"},
+    {"id": 2, "name": "Arandanos Secos", "price": 1590, "img": "imagenes/arandanos-secos.jpg", "category": "Frutas Desecadas"},
+    {"id": 3, "name": "Ciruelas President", "price": 430, "img": "imagenes/ciruelas-president.jpg", "category": "Frutas Desecadas"},
+    {"id": 4, "name": "Ciruelas Dagen sin carozo", "price": 475, "img": "imagenes/ciruelas-dagen-sin-carozo.jpg", "category": "Frutas Desecadas"},
+    {"id": 5, "name": "Nueces con Cascara", "price": 2550, "img": "imagenes/nueces-con-cascara.jpg", "category": "Frutas Secas"},
+    {"id": 6, "name": "Nueces Peladas", "price": 4370, "img": "imagenes/nueces-peladas.webp", "category": "Frutas Secas"},
+    {"id": 7, "name": "Peras Willams", "price": 1370, "img": "imagenes/peras-williams.jpg", "category": "Frutas Desecadas"},
+    {"id": 8, "name": "Tomates Secos", "price": 2470, "img": "imagenes/tomates-secos.jpg", "category": "Frutas Desecadas"}   
+]
